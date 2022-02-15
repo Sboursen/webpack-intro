@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Sboursen/webpack-intro/issues"
   },
-  "homepage": "https://github.com/Sboursen/webpack-intro#readme"
+  "homepage": "https://github.com/Sboursen/webpack-intro#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
