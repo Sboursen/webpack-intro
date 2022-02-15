@@ -1,0 +1,27 @@
+{
+  "name": "webpack-intro",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "private": "true",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sboursen/webpack-intro.git"
+  },
+  "keywords": [],
+  "author": "Sboursen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sboursen/webpack-intro/issues"
+  },
+  "homepage": "https://github.com/Sboursen/webpack-intro#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
